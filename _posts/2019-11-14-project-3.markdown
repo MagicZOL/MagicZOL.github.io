@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2019-11-14
+img: pot3.png
+alt: image-alt
+project-date: November 2019
+github: https://github.com/MagicZOL/JewelGame
+skills: C#, Unity 
+category: Game
+description: 보석을 캐서 돈을 모아보세요! 보석을 캘 때마다 돈이 쌓이고 다양한 아이템을 구입하실 수 있습니다. 재미있게 즐겨보세요!
+
+---
