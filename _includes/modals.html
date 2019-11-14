@@ -19,9 +19,9 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
+                                {% if post.skills %}
                                     <li>사용기술:
-                                        <strong>{{ post.client }}
+                                        <strong>{{ post.skills }}
                                         </strong>
                                     </li>
                                 {% endif %}
@@ -38,7 +38,9 @@
                                     </li>
                                 {% endif %}
                             </ul>
+                            {% if post.github %}
                             <button type="button" class="btn btn-default" onclick="location.href='https://github.com/MagicZOL'"><i class="fa fa-bookmark"></i> Github 저장소</button>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
