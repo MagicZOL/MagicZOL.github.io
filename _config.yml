@@ -1,11 +1,11 @@
 # Site settings
 title: MAGICZOL 
-email: tnwls9721@domain.com
+email: tnwls9721@gmail.com
 url: https://MagicZOL.github.io
 description: "쉽게 게임을 개발할 수 있는 그날까지..."
-keywords: "your keywords, separated by commas"
-skills: "Game Programmer"
-meta_author: LastName FirstName
+keywords: "unity, developer, c#, game, designer"
+skills: "C# Developer, Unity Developer, Server Developer"
+meta_author: 임 수진
 
 # Google webmaster tools
 google_verify:
@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: MagicZOL
-  location: 스킬
-  social: 소셜
-  credits: 노력
+  location: Skills
+  social: Around the Web
+  credits: Effort
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,9 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 게임개발능력
-  - line: 활발함 LV.MAX
-  - line: 성실함 LV.MAX
+  - line: C#
+  - line: Unity
 
 # Credits content
 credits: '"현재가 과거와 다르길 바란다면 과거를 공부하라." -Baruch Spinoza-'
