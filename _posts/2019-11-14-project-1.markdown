@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-11-14
+img: pot1.png
+alt: image-alt
+project-date: November 2019
+client: 
+category: Game
+description: 모바일용 연락처인 SuperContact는 자연스러운 디자인과 다양한 기능이 존재합니다. 평범한 연락처는 이제 그만! SuoerContact를 이용해보세요! <a href="https://github.com/MagicZOL/SuperContact">Github</a>
+
+---
