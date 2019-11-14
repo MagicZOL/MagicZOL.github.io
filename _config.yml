@@ -53,7 +53,7 @@ address:
   - line: 성실함 LV.MAX
 
 # Credits content
-credits: '"현재가 과거와 다르길 바란다면 과거를 공부하라." -Baruch Spinoza-"'
+credits: '"현재가 과거와 다르길 바란다면 과거를 공부하라." -Baruch Spinoza-'
 
 # Build settings
 markdown: kramdown
