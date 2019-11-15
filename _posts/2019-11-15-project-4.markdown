@@ -4,7 +4,7 @@ modal-id: 4
 date: 2019-11-15
 img: pot4.png
 alt: image-alt
-project-date: November 2014
+project-date: November 2019
 github: https://github.com/MagicZOL/
 skills: C#, Unity 
 category: Game
