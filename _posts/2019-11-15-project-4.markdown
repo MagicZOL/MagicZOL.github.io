@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2019-11-15
+img: pot4.png
+alt: image-alt
+project-date: November 2014
+github: https://github.com/MagicZOL/
+skills: C#, Unity 
+category: Game
+description: 스페이스 슈터는 재미있는 FPS게임입니다!
+
+---
