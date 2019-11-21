@@ -5,9 +5,9 @@ date: 2019-11-15
 img: pot4.png
 alt: image-alt
 project-date: November 2019
-github: https://github.com/MagicZOL/
+github: https://github.com/MagicZOL/SpaceShooter
 skills: C#, Unity 
 category: Game
-description: 스페이스 슈터는 재미있는 FPS게임입니다!
+description: 스페이스 슈터는 재미있는 FPS게임입니다! 적과의 전투에서 최대한 많은 적을 물리쳐주세요! 아이템을 활용하여 오래 생존해보세요!
 
 ---

@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2019-11-21
+img: safe.png
+alt: image-alt
+project-date: November 2019
+github: https://github.com/MagicZOL/FishGame
+skills: C#, Unity 
+category: Game
+description: 작은 물고기의 여행을 시작합니다. 물고기가 파이프에 부딪히지 않고 무사히 모험을 할 수 있도록 도와주세요. 많은 파이프를 피하여 점수를 쌓아주세요. 물고기는 어디까지 갈 수 있을까요?
+
+---
