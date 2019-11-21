@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2019-11-21
-img: safe.png
+img: pot5.png
 alt: image-alt
 project-date: November 2019
 github: https://github.com/MagicZOL/FishGame
