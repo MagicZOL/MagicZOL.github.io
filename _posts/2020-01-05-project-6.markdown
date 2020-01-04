@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2020-01-05
+img: submarine.png
+alt: image-alt
+project-date: January 2020
+github: https://github.com/MagicZOL/Tictactoe-client
+skills: C#, Unity 
+category: Game
+description: TicTacToe 게임은 전략 게임으로 상대방의 심리를 파악하여 승리하는 것이 목표입니다. TicTacToe 게임을 통해 상대방을 파악하는 기술을 익히고 승리를 쟁취해 보세요!
+
+---

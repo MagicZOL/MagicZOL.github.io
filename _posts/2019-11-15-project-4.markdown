@@ -8,6 +8,6 @@ project-date: November 2019
 github: https://github.com/MagicZOL/SpaceShooter
 skills: C#, Unity 
 category: Game
-description: 스페이스 슈터는 재미있는 FPS게임입니다! 적과의 전투에서 최대한 많은 적을 물리쳐주세요! 아이템을 활용하여 오래 생존해보세요!
+description: 스페이스 슈터는 재미있는 FPS게임입니다! 적과의 전투에서 최대한 많은 적을 물리쳐주세요! 아이템을 활용하여 오래 생존해보세요! 죽게 되는 순간 적들의 놀림거리가 될겁니다!
 
 ---
