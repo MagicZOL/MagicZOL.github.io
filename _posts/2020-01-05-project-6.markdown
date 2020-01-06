@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2020-01-05
-img: submarine.png
+img: pot6.png
 alt: image-alt
 project-date: January 2020
 github: https://github.com/MagicZOL/Tictactoe-client
